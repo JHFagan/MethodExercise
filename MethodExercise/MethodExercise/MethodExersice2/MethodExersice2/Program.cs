@@ -34,7 +34,7 @@ namespace MethodExersice2
         }
         public static double Divide(double x, double y)
         {
-            return (x / y);
+           return (x / y);
         }
          
 
