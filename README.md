@@ -1,0 +1,2 @@
+# MethodExercise
+Exercises with Method
