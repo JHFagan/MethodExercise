@@ -19,6 +19,11 @@ namespace MethodExercise
             Console.WriteLine($"Favorite Color: {favColor}");
             Console.WriteLine($"Favorite Animal: {favAnimal}");
             Console.WriteLine($"Favorite Band: {favBand}");
+
+            var message = $"Our hero's name is {name}! He was always looking out for the horrible, big, {favColor} {favAnimal}. " +
+                $"The {favAnimal} terrorizes the countryside and is only soothed my the graceful tunes of {favBand}";
+            Console.WriteLine(message);
         }
+
     }
 }
